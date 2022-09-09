@@ -35,7 +35,7 @@
     "@comunica/core": "^2.4.0",
     "@comunica/types": "^2.4.0",
     "jsonld-context-parser": "^2.1.5",
-    "jsonld-streaming-parser": "^3.0.0",
+    "jsonld-streaming-parser": "https://github.com/redpencilio/jsonld-streaming-parser.js#fix/context-base-resolving",
     "stream-to-string": "^1.2.0"
   },
   "scripts": {
